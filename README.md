@@ -12,8 +12,8 @@ Currently looking for a **Junior Web Developer internship (20–25h/week)** wher
 **Languages:**  
 - C#  
 - HTML5 / CSS3  
-- JavaScript (learning)  
-- Python (learning)
+- JavaScript
+- Python 
 
 **Tools:**  
 - Visual Studio  
