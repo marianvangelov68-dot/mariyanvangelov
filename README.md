@@ -27,18 +27,6 @@ Currently looking for a **Junior Web Developer internship (20–25h/week)** wher
 
 ---
 
-## 📌 Projects  
-### 🍽️ Restaurant Website  
-Responsive UI + contact form  
-🔗 https://github.com/marianvangelov68-dot/HTML_CSS/tree/main/restorant  
-
-### 📸 Photographers Website  
-Informational website for photographers  
-🔗 https://github.com/marianvangelov68-dot/HTML_CSS/tree/main/photographers  
-
-### 🐍 Python OOP Demo  
-Classes + inheritance  
-🔗 https://github.com/marianvangelov68-dot/Python  
 
 ---
 
