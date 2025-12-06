@@ -4,7 +4,8 @@
 
 ## 🚀 About Me  
 I'm a final-year Software Engineering student who’s all about building cool web stuff, learning fast, and leveling up every day.  
-Lecturer at Logiscool Bulgaria
+
+💻Lecturer at Logiscool Bulgaria
 
 ---
 
