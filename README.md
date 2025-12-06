@@ -4,7 +4,7 @@
 
 ## 🚀 About Me  
 I'm a final-year Software Engineering student who’s all about building cool web stuff, learning fast, and leveling up every day.  
-Currently looking for a **Junior Web Developer internship (20–25h/week)** where I can grow and work on real-world projects.
+Lecturer at Logiscool Bulgaria
 
 ---
 
